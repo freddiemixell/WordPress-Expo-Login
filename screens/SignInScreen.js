@@ -22,7 +22,7 @@ export default class SignInScreen extends React.Component {
             const redirectUrl = AuthSession.getRedirectUrl();
             const result = await AuthSession.startAsync({
                 authUrl:
-                `https://digitalreactor.co/oauth/authorize` +
+                `https://example.co/oauth/authorize` +
                 `?client_id=${this.CLIENT_ID}` +
                 `&redirect_uri=${encodeURIComponent(redirectUrl)}` +
                 '&response_type=code'
