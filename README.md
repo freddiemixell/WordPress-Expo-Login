@@ -11,12 +11,12 @@ Example Expo React Native App using WordPress OAuth2 Server for login.
 4. Copy your Client ID
 5. In `screens/SignInScreen.js` add your client id where it says `CLIENT_ID = 'INSERT-CLIENT-ID';`
 6. Change example.com to your WordPress websites url on the sign in screen here:
-`const result = await AuthSession.startAsync({
-    authUrl:
-    `https://example.co/oauth/authorize` +
-    `?client_id=${this.CLIENT_ID}` +
-    `&redirect_uri=${encodeURIComponent(redirectUrl)}` +
-    '&response_type=code'
-});`
+`const result = await AuthSession.startAsync({`
+    `authUrl:`
+    ``https://example.co/oauth/authorize` +`
+    ``?client_id=${this.CLIENT_ID}` +`
+    ``&redirect_uri=${encodeURIComponent(redirectUrl)}` +`
+    `'&response_type=code'`
+`});`
 
 7. Log in to your app using WordPress!
