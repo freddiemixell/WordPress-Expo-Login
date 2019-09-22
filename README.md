@@ -3,7 +3,8 @@ Example Expo React Native App using WordPress OAuth2 Server for login.
 
 ### How to use:
 1. Install WordPress OAuth Server plugin: https://wordpress.org/plugins/oauth2-provider/
-2. In settings enable OAuth Server.
+2. In WP OAuth Servers settings enable OAuth Server.
+![WP OAuth Server Settings](https://i.imgur.com/cMWCvS8.png)
 3. Under Clients create a new client.
   - Choose Authorization Code grant type.
   - Name your client.
