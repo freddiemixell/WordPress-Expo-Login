@@ -4,7 +4,7 @@ Example Expo React Native App using WordPress OAuth2 Server for login.
 ## Getting Started
 These instructions will show you how to set up your WordPress website that will act as the Authentication system for your Expo App.
 
-####Prerequisites:
+#### Prerequisites:
 - [NodeJS](https://nodejs.org/en/)
   - If you have HomeBrew: `brew install node`
 - [Expo CLI](https://expo.io/learn)
