@@ -1,4 +1,4 @@
-![Expo WordPress](https://i.imgur.com/4XhTFzL.png)
+![Expo WordPress](https://i.imgur.com/ZJ36Hrm.png)
 # WordPress-Expo-Login
 Example Expo React Native App using WordPress OAuth2 Server for login.
 
