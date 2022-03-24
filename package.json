@@ -21,7 +21,7 @@
     "expo-font": "~9.2.1",
     "expo-web-browser": "~9.2.0",
     "merge": "^2.1.1",
-    "minimist": "^0.2.1",
+    "minimist": "^1.2.6",
     "node-notifier": "^8.0.1",
     "react": "16.13.1",
     "react-dom": "16.13.1",
